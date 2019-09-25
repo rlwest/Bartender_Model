@@ -1,0 +1,1 @@
+print('character1')
